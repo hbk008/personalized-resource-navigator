@@ -1,0 +1,7 @@
+streamlit==1.25.0
+pandas==2.0.3
+fuzzywuzzy==0.18.0
+openai==0.27.8
+selenium==4.10.0
+beautifulsoup4==4.12.2
+python-Levenshtein==0.21.1
