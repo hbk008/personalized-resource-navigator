@@ -7,7 +7,7 @@
 
 The **Personalized Community Resource Navigator** is a Streamlit-based web application designed to connect uninsured patients in Austin, TX, to tailored healthcare resources. It addresses the challenge of fragmented resource information by providing personalized clinic recommendations based on ZIP code, medical needs, insurance status, language, and gender-specific services. The system uses fuzzy matching for rapid searches and OpenAI’s `gpt-3.5-turbo` for advanced filtering and recommendations. This project was developed for the *Workshop on Healthcare Access* (April 2025, Austin, TX).
 
-**[Report](https://[your-report-pdf-link])** | **[Presentation](https://[your-google-slides-link])**
+**[Report](https://[your-report-pdf-link])** | **[Presentation](https://docs.google.com/presentation/d/1BnSVydFdBEBJJyUr9QxwNaIlHUA0WR3QXsuFypzm_7w/edit#slide=id.g34d970a1210_0_11)**
 
 ## Table of Contents
 - [Features](#features)
@@ -74,10 +74,6 @@ The **Personalized Community Resource Navigator** is a Streamlit-based web appli
    - Choose “Traditional” (fuzzy) or “AI-Powered” (LLM) search.
    - View results (e.g., CommUnityCare David Powell with LLM recommendation).
 
-## Demo
-A static demo is included in the [presentation](https://[your-google-slides-link]) (Slide 5):
-- **Screenshot**: Shows the Streamlit app with inputs (ZIP 78751, Primary Care, Uninsured, Spanish) and output (CommUnityCare David Powell, LLM recommendation in 3.2s).
-
 To run the app locally for your own demo:
 1. Follow [Installation](#installation) and [Usage](#usage).
 2. Take a screenshot of the app interface for presentations.
@@ -108,15 +104,3 @@ We welcome contributions to enhance the Navigator! To contribute:
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-## Acknowledgments
-- **Workshop on Healthcare Access** for inspiring this project.
-- **Texas HHS** and **Kaiser Family Foundation** for data insights [1, 2].
-- **Streamlit** and **OpenAI** for enabling rapid development.
-- **Contributors**: [Add names or GitHub handles as contributions are made].
-
-**References**:
-1. Texas Health and Human Services, *Health Insurance Coverage and Access in Texas: 2024*.
-2. Kaiser Family Foundation, *The Uninsured and the ACA: A Primer*, 2022.
-
-For questions, contact [your-email@example.com] or open an issue on GitHub.
