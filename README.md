@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Workshop](https://img.shields.io/badge/Workshop-Healthcare_Access_2025-blueviolet.svg)
 
-The **Personalized Community Resource Navigator** is a Streamlit-based web application designed to connect uninsured patients in Austin, TX, to tailored healthcare resources. It addresses the challenge of fragmented resource information by providing personalized clinic recommendations based on ZIP code, medical needs, insurance status, language, and gender-specific services. The system uses fuzzy matching for rapid searches and OpenAI’s `gpt-3.5-turbo` for advanced filtering and recommendations. This project was developed for the *Workshop on Healthcare Access* (April 2025, Austin, TX).
+The **Personalized Community Resource Navigator** is a Streamlit-based web application designed to connect uninsured patients in Austin, TX, to tailored healthcare resources. It addresses the challenge of fragmented resource information by providing personalized clinic recommendations based on ZIP code, medical needs, insurance status, language, and gender-specific services. The system uses fuzzy matching for rapid searches and OpenAI’s `gpt-3.5-turbo` for advanced filtering and recommendations.
 
 **[Report](https://[your-report-pdf-link])** | **[Presentation](https://docs.google.com/presentation/d/1BnSVydFdBEBJJyUr9QxwNaIlHUA0WR3QXsuFypzm_7w/edit#slide=id.g34d970a1210_0_11)**
 
