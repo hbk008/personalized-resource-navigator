@@ -13,11 +13,9 @@ The **Personalized Community Resource Navigator** is a Streamlit-based web appli
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 - **User-Friendly Interface**: Streamlit app with input form for ZIP code, medical needs, insurance, language, and gender.
