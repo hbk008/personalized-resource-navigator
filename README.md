@@ -23,8 +23,8 @@ The **Personalized Community Resource Navigator** is a Streamlit-based web appli
   - Fuzzy matching (`fuzzywuzzy`) for quick, local searches (>80% match score).
   - LLM-based search (`gpt-3.5-turbo`) for nuanced filtering and recommendations.
 - **Data Pipeline**: Scrapes clinic data from FreeClinics.com and Central Health, processes into `resources.csv`.
-- **Performance**: 90% LLM success rate, 3.2s response time; 70% fuzzy success rate, 0.8s.
-- **Impact**: Potential to reduce emergency visits by 10–15%, saving $5–10M annually [2].
+- **Performance**: LLM-3.2s response time; fuzzy-0.8s.
+- **Impact**: Potential to reduce emergency visits by 10–15%, saving $5–10M annually.
 
 ## Installation
 1. **Clone the Repository**:
@@ -68,9 +68,9 @@ The **Personalized Community Resource Navigator** is a Streamlit-based web appli
    - Access at `http://localhost:8501`.
 
 2. **Interact**:
-   - Enter ZIP code (e.g., 78751), select medical needs (e.g., Primary Care), insurance (Uninsured), language (Spanish), and gender (All).
+   - Enter ZIP code (e.g., 78701), select medical needs (e.g., mental health), insurance (Uninsured), language (English), and gender (All).
    - Choose “Traditional” (fuzzy) or “AI-Powered” (LLM) search.
-   - View results (e.g., CommUnityCare David Powell with LLM recommendation).
+   - View results (e.g., Austi center for Homeless).
 
 To run the app locally for your own demo:
 1. Follow [Installation](#installation) and [Usage](#usage).
