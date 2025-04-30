@@ -70,7 +70,7 @@ The **Personalized Community Resource Navigator** is a Streamlit-based web appli
 2. **Interact**:
    - Enter ZIP code (e.g., 78701), select medical needs (e.g., mental health), insurance (Uninsured), language (English), and gender (All).
    - Choose “Traditional” (fuzzy) or “AI-Powered” (LLM) search.
-   - View results (e.g., Austi center for Homeless).
+   - View results (e.g., Austin Center for Homeless).
 
 To run the app locally for your own demo:
 1. Follow [Installation](#installation) and [Usage](#usage).
